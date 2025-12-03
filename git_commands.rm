@@ -1,6 +1,10 @@
 #To clone git repository
 git clone https://github.com/Ranvijay2003/mypractice.git
 
+
+  git config --global user.email "officialranvijaykumaryadav@example.com"
+  git config --global user.name "Your Name"
+
 #To check any changes at local machine
 git status
 
@@ -12,3 +16,5 @@ git commit -m "class added write any new change"
 
 #To publish or push changes on github
 git push
+
+
